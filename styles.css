@@ -1,1 +1,16 @@
-/* your code */
+table tr th,td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 100px;
+}
+tr th{
+    background-color:royalblue;
+}
+tr td{
+    background-color: lightcoral;
+}
